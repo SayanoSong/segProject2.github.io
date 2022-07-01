@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SayanoSong/segProject2.github.io/static/css/main.b52dcf93.css",
+    "main.js": "/SayanoSong/segProject2.github.io/static/js/main.4a89b0be.js",
+    "static/js/787.ce240156.chunk.js": "/SayanoSong/segProject2.github.io/static/js/787.ce240156.chunk.js",
+    "static/media/home_game1.png": "/SayanoSong/segProject2.github.io/static/media/home_game1.08b432cbe1d42fec876f.png",
+    "static/media/miku.jpg": "/SayanoSong/segProject2.github.io/static/media/miku.be6828901fad775e9fa3.jpg",
+    "static/media/destiny1.png": "/SayanoSong/segProject2.github.io/static/media/destiny1.1d88de5d2108e1e21012.png",
+    "static/media/main_bg.png": "/SayanoSong/segProject2.github.io/static/media/main_bg.761bdb5fe20e61706a55.png",
+    "static/media/csgo.jpg": "/SayanoSong/segProject2.github.io/static/media/csgo.410c3bbdfaf578bab452.jpg",
+    "static/media/destiny.jpg": "/SayanoSong/segProject2.github.io/static/media/destiny.1258ebba2af6299c0993.jpg",
+    "static/media/Stellaris.jpg": "/SayanoSong/segProject2.github.io/static/media/Stellaris.fa43e9e0373bf2cab85d.jpg",
+    "static/media/AmongUs.png": "/SayanoSong/segProject2.github.io/static/media/AmongUs.de3eebe07577116f21d0.png",
+    "static/media/halfLife.jpg": "/SayanoSong/segProject2.github.io/static/media/halfLife.5a8df386aad77042bd43.jpg",
+    "index.html": "/SayanoSong/segProject2.github.io/index.html",
+    "main.b52dcf93.css.map": "/SayanoSong/segProject2.github.io/static/css/main.b52dcf93.css.map",
+    "main.4a89b0be.js.map": "/SayanoSong/segProject2.github.io/static/js/main.4a89b0be.js.map",
+    "787.ce240156.chunk.js.map": "/SayanoSong/segProject2.github.io/static/js/787.ce240156.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b52dcf93.css",
+    "static/js/main.4a89b0be.js"
+  ]
+}
